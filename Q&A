@@ -2,6 +2,8 @@
 中文完整文章：https://www.jianshu.com/p/093ffe6e5662
 	里面数据集部分详细介绍了mnist数据集的下载方式
 	FCNN拟合+dropout优化
+https://www.cijiyun.com/newsview?id=61906 详细，有图
+
 英文完整代码以及代码解释和实现过程：
 https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118
 英文完整实现过程：
