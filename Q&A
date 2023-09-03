@@ -2,12 +2,25 @@
 中文完整文章：https://www.jianshu.com/p/093ffe6e5662
 	里面数据集部分详细介绍了mnist数据集的下载方式
 	FCNN拟合+dropout优化
-英文完整代码以及代码解释和实现过程：https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118
+英文完整代码以及代码解释和实现过程：
+https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118
 英文完整实现过程：
 https://nextjournal.com/gkoehler/pytorch-mnist
 	FCNN+Relu+dropout
-https://nextjournal.com/gkoehler/pytorch-mnist kaggle实践，只有代码，和测试集准确率：0.952？
+kaggle实践，只有代码，和测试集准确率：0.952？:
+https://nextjournal.com/gkoehler/pytorch-mnist 
 
 问题1. 可以做手写识别的项目吗？
 问题2. 目前我们看到大部分文章都是用FCNN进行手写识别，还有别的方法在业界有较好的实现效果吗？或者能在FCNN上优化的方法？
 问题3. 直接用我们自己的电脑进行跑吗？还是用学校的GPU跑？途径是什么？
+
+
+1.Is Handwritten Digit Recognition a proper topic for this lecture? 
+	The simulation in this paper will mainly use minist handwritten digital languageinformation set, python programming language, Torch machine learning library, 
+	to realize a set of handwritten digital recognition system basedon fully connected neural network and other algorithms. 
+ that is, CNN with Pytorch for MNIST
+
+2. Currently we see most of the papers are using FCNN for handwriting recognition, are there other methods that have better implementation in the industry? 
+  Or methods that can be optimised on FCNN?
+
+3. Do we run it directly from our own computers? Or do we run it on the school's GPU? What is the pathway?
