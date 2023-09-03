@@ -1,0 +1,13 @@
+参考资料
+中文完整文章：https://www.jianshu.com/p/093ffe6e5662
+	里面数据集部分详细介绍了mnist数据集的下载方式
+	FCNN拟合+dropout优化
+英文完整代码以及代码解释和实现过程：https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118
+英文完整实现过程：
+https://nextjournal.com/gkoehler/pytorch-mnist
+	FCNN+Relu+dropout
+https://nextjournal.com/gkoehler/pytorch-mnist kaggle实践，只有代码，和测试集准确率：0.952？
+
+问题1. 可以做手写识别的项目吗？
+问题2. 目前我们看到大部分文章都是用FCNN进行手写识别，还有别的方法在业界有较好的实现效果吗？或者能在FCNN上优化的方法？
+问题3. 直接用我们自己的电脑进行跑吗？还是用学校的GPU跑？途径是什么？
