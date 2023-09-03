@@ -15,6 +15,8 @@ https://nextjournal.com/gkoehler/pytorch-mnist
 问题1. 可以做手写识别的项目吗？
 问题2. 目前我们看到大部分文章都是用FCNN进行手写识别，还有别的方法在业界有较好的实现效果吗？或者能在FCNN上优化的方法？
 问题3. 直接用我们自己的电脑进行跑吗？还是用学校的GPU跑？途径是什么？
+问题4. 数据集收据太多了，是否分成mini-batch跑可以节省资源，跑得很快？
+问题5. 卷积层和全连接层的层数怎么确定，目前看到的paper一般都是2层卷积层、3层全连接层
 
 
 1.Is Handwritten Digit Recognition a proper topic for this lecture? 
@@ -26,3 +28,20 @@ https://nextjournal.com/gkoehler/pytorch-mnist
   Or methods that can be optimised on FCNN?
 
 3. Do we run it directly from our own computers? Or do we run it on the school's GPU? What is the pathway?
+
+
+motivation:客观原因（技术先进）+主观原因（学过 感兴趣）
+
+ppt
+statement: summary
+	data
+	model
+	accuracy: 90%
+question:
+
+
+
+
+
+
+
